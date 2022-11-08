@@ -24,5 +24,6 @@
   -> one-stage 기반 모델 구조 개선 및 SOTA 모델 구조 활용(YOLO 계열 구조 개선 목표)
 ### Text Recognition
 - PARSeq 모델 구조 그대로 활용
-  -> 
+  -> ViT Encoder Layer 구조 : Swin Transformer Encoder 구조로 변경
 - 데이터 수 사전학습 모델에 비해 적음
+  -> 데이터 셋 추가 
