@@ -1,4 +1,4 @@
-# OCR
+# OCR(Optical Character Recognition)
 
 ## Text Detection
 ### TextSnake
