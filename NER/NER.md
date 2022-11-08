@@ -8,7 +8,8 @@
 
 2. 한국해양대학교 자연연어처리연구실 NER Dataset
 - 개체이름 / 시간표현 / 수량표현
-- 인명(PER), 지명(LOC), 기관명(ORG), 기타(POH)![image](https://user-images.githubusercontent.com/77089771/200485055-87713308-7597-40d0-a85d-2bdbf1d98c5d.png)
+- 인명(PER),지명(LOC),기관명(ORG),기타(POH) / 날짜(DAT),시간(TIM),기간(DUR) / 통화(MNY),비율(PNT),기타 수량 표현(NOH)
+
 - 총 21가지 tag
 ![image](https://user-images.githubusercontent.com/77089771/200483945-90ff50f3-1c2b-4d78-b961-6a05bfdca698.png)
 
