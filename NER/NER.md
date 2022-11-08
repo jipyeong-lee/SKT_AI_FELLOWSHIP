@@ -34,10 +34,9 @@
   - 전처리 용이성 차이로 한국해양대학교 자연언어처리연구실 NER Dataset 최종 데이터셋 선정
   - KLUE-NER 데이터셋은 벤치마크 데이터로 사용
   ![image](https://user-images.githubusercontent.com/77089771/200487826-89d54756-0e22-460a-bcae-e41d4b03d319.png)
-  ![image](https://user-images.githubusercontent.com/77089771/200488121-d9c53e97-6fed-495c-8de1-0cfaa141a64a.png)
 
 
 ## RESULT
-![image](https://user-images.githubusercontent.com/77089771/200488175-08f3198a-03b9-4656-9e4d-f6bbc21cf70d.png)
+![image](https://user-images.githubusercontent.com/77089771/200488473-0d42d7c4-51a3-428b-b291-4c49e67cf91b.png)
 ![image](https://user-images.githubusercontent.com/77089771/200488187-4233e6ff-35a9-4005-bde7-8de8e5851f7c.png)
 
